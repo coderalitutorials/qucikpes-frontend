@@ -663,7 +663,7 @@ export default function ServicesSection() {
 
   const services = [
     {
-      title: "ANT CONTROL",
+      title: "ANT CONTROL service",
       icon: GiAnt,
       desc: "Comprehensive solutions to eliminate ant colonies and prevent future infestations in your property.",
     },
