@@ -79,17 +79,17 @@ import { Quote } from "lucide-react";
 
 const reviews = [
   {
-    name: "Alistair Vance",
+    name: "james Vance",
     text: "The structural fortification they installed was invisible yet impenetrable. A true masterclass in property defense.",
     icon: FaUserShield,
   },
   {
-    name: "Marcus Thorne",
+    name: "Mr. Thorne",
     text: "I appreciated the clinical, no-nonsense approach. The facility was cleared without a single disruption to our workflow.",
     icon: FaUserTie,
   },
   {
-    name: "Dominic West",
+    name: "ion morgan",
     text: "When other companies failed, their thermal protocols succeeded. They treat properties with genuine care.",
     icon: FaUserCog,
   },
