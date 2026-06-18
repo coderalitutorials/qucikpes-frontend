@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.pestcontrolpurley.uk/sitemap.xml
+Sitemap: https://www.pestcontrolbecekenham.uk/sitemap.xml
