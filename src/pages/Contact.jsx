@@ -392,7 +392,7 @@ const Contact = () => {
           <div className="bg-[#0A2240] text-white p-8 rounded-2xl flex flex-col items-center text-center">
             <h3 className="text-xl font-black uppercase mb-4">Verified 5-Star Service</h3>
             <p className="text-white/70 mb-6 text-sm">Trusted in Beckenham & London. Check our latest reviews and updates.</p>
-            <a href="YOUR_GOOGLE_PROFILE_LINK" target="_blank" className="bg-[#b99547] text-white px-8 py-3 font-bold uppercase tracking-widest hover:bg-white hover:text-[#0A2240] transition-all">
+            <a href="https://maps.app.goo.gl/pDXGu1ZvzuFbxAit5?g_st=ic" target="_blank" className="bg-[#b99547] text-white px-8 py-3 font-bold uppercase tracking-widest hover:bg-white hover:text-[#0A2240] transition-all">
               Visit Google Profile
             </a>
           </div>
